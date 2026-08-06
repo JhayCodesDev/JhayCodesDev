@@ -9,7 +9,7 @@ Building practical software that solves real problems while continuously learnin
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="jhay-codes.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge" />
 </a>
 
@@ -179,7 +179,7 @@ A Flask-based utility application that combines a password generator with a numb
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="jhay-codes.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge"/>
 </a>
 

@@ -1,206 +1,220 @@
-<h1 align="center">Hi 👋, I'm JhayCodes</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • React • JavaScript
-</h3>
+# JHAYCODES
 
-<p align="center">
-Building practical software that solves real problems while continuously learning and improving.
+### Frontend & Software Developer
+
+**I BUILD. · I BREAK. · I UNDERSTAND. · I BUILD BETTER.**
+
+<p>
+  <a href="https://jhaycodesdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JhayCodesDev">
+    <img src="https://img.shields.io/badge/GitHub-JhayCodesDev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/joshua-odusanya-9b67aa292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Odusanya-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<p align="center">
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/JhayCodesDev">
-<img src="https://img.shields.io/badge/GitHub-JhayCodesDev-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/joshua-odusanya-9b67aa292">
-<img src="https://img.shields.io/badge/LinkedIn-Joshua%20Odusanya-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## `01 / THE BUILDER`
 
-I'm a Frontend Developer who enjoys building practical, responsive, and user-friendly web applications.
+I don't just want software to **work**.
 
-I believe the best way to grow as a developer is by solving real problems through hands-on projects. Every application I build is an opportunity to improve my technical skills, write cleaner code, and create better user experiences.
+I want to understand **why** it works.
 
-I'm currently strengthening my Python knowledge while preparing for Backend Development and AI Engineering.
+I build things, break things, rebuild them, and use every project as an opportunity to understand the systems beneath the surface.
+
+My main focus is frontend development, but I'm deliberately expanding beyond the interface — strengthening my programming fundamentals, deepening my Python knowledge, and moving toward backend development and AI engineering.
 
 ---
 
-# 🚀 Tech Stack
+## `02 / MY STACK`
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### Currently Learning
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## `03 / THINGS I'VE BUILT`
 
-## 🛒 JHAY HUB
+### 🛒 JHAY HUB
 
-<p align="center">
-<img src="./images/jhayhub.png" width="800"/>
-</p>
+**React e-commerce experience**
 
-A modern React e-commerce application featuring product search, category filtering, shopping cart, dark/light mode, responsive design, and API fallback handling.
+A modern e-commerce application built around real-world frontend patterns — product discovery, category filtering, cart management, persistent state, responsive layouts, and dark/light mode.
 
-**Tech Stack**
-
-`React` `Tailwind CSS` `JavaScript` `Context API`
+`React` `JavaScript` `Tailwind CSS` `Context API`
 
 <p>
-
-<a href="https://jhay-hub.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/JhayCodesDev/react-ecommerce-jhayhub">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://jhay-hub.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JhayCodesDev/react-ecommerce-jhayhub">
+    <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🏦 JhayBank
+### 🏦 JhayBank
 
-<p align="center">
-<img src="./images/jhaybank.png" width="800"/>
-</p>
+**JavaScript banking simulation**
 
-A digital banking simulation built with JavaScript featuring deposits, withdrawals, loans, transaction history, and responsive design.
+A browser-based banking simulation built to practice application logic, state management, transactions, and user interaction.
 
-**Tech Stack**
-
-`HTML5` `CSS3` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
 <p>
-
-<a href="https://jhaycodesdev.github.io/JhayBank/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/JhayCodesDev/JhayBank">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://jhaycodesdev.github.io/JhayBank/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JhayCodesDev/JhayBank">
+    <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 📚 SwiftReads Bookstore
+### 📚 SwiftReads
 
-<p align="center">
-<img src="./images/swiftreads.png" width="800"/>
-</p>
+**Responsive bookstore interface**
 
-A responsive bookstore website showcasing books through a clean Bootstrap interface with an emphasis on layout and usability.
+A responsive bookstore experience built with Bootstrap, focusing on layout, component structure, responsiveness, and usability.
 
-**Tech Stack**
-
-`HTML5` `CSS3` `Bootstrap`
+`HTML` `CSS` `Bootstrap`
 
 <p>
-
-<a href="https://jhaycodesdev.github.io/swiftreads-bookstore/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/JhayCodesDev/swiftreads-bookstore">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://jhaycodesdev.github.io/swiftreads-bookstore/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JhayCodesDev/swiftreads-bookstore">
+    <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Smart Utility
+### 🛠 Smart Utility
 
-<p align="center">
-<img src="./images/smartutility.png" width="800"/>
-</p>
+**Python + Flask utility application**
 
-A Flask-based utility application that combines a password generator with a number converter for binary and hexadecimal conversions.
-
-**Tech Stack**
+A small but practical Flask application combining password generation with binary and hexadecimal number conversion.
 
 `Python` `Flask` `HTML` `CSS`
 
 <p>
-
-<a href="https://github.com/JhayCodesDev/smart-utility">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://github.com/JhayCodesDev/smart-utility">
+    <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 🌱 Current Focus
+## `04 / CURRENT DIRECTION`
 
-- Building professional frontend applications
-- Preparing for Backend Development
-- Learning Python for AI Engineering
-- Continuously improving problem-solving and software design skills
+I'm not trying to learn everything at once.
+
+I'm building toward something.
+
+```text
+Frontend Development
+        ↓
+JavaScript / React
+        ↓
+Stronger Programming Fundamentals
+        ↓
+Python
+        ↓
+Backend Development
+        ↓
+AI Engineering
+```
+
+Alongside that, I'm learning **C++** to strengthen my programming fundamentals and prepare for university coursework.
 
 ---
 
-# 📈 GitHub Statistics
+## `05 / HOW I LEARN`
 
-<p align="center">
+```text
+BUILD
+  ↓
+BREAK
+  ↓
+UNDERSTAND
+  ↓
+REBUILD
+  ↓
+BUILD BETTER
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JhayCodesDev&show_icons=true&theme=github_dark&hide_border=true"/>
+I learn best by taking ideas out of theory and turning them into working software.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhayCodesDev&layout=compact&theme=github_dark&hide_border=true"/>
+If something breaks, that's not wasted time.
 
-</p>
+**That's where the interesting part starts.**
 
 ---
 
-# 📫 Let's Connect
+## `06 / GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JhayCodesDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhayCodesDev&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+</div>
+
+---
+
+## `07 / FIND ME`
 
 <p>
-
-<a href="https://www.linkedin.com/in/joshua-odusanya-9b67aa292">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge"/>
-</a>
-
+  <a href="https://jhaycodesdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-JhayCodes-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JhayCodesDev">
+    <img src="https://img.shields.io/badge/GitHub-JhayCodesDev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/JhayCodes">
+    <img src="https://img.shields.io/badge/X-@JhayCodes-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://www.instagram.com/jhaycodes_/">
+    <img src="https://img.shields.io/badge/Instagram-@jhaycodes_-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/joshua-odusanya-9b67aa292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Odusanya-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💙 *"Build with purpose. Learn with curiosity. Deliver with quality."*
+### **Build with purpose. Learn with curiosity. Deliver with quality.**
 
-</p>
+*— JhayCodes*
+
+</div>

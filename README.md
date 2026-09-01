@@ -11,11 +11,15 @@
 <a href="https://jhaycodesdev.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-2563EB?style=for-the-badge" alt="Portfolio" />
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/JhayCodesDev">
   <img src="https://img.shields.io/badge/GITHUB-JHAYCODESDEV-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/joshua-odusanya-9b67aa292/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
@@ -41,13 +45,21 @@ My main focus is **frontend development**, but I'm deliberately expanding beyond
 
 ```text
 BUILD
+
   ↓
+
 BREAK
+
   ↓
+
 UNDERSTAND
+
   ↓
+
 REBUILD
+
   ↓
+
 BUILD BETTER
 ```
 
@@ -90,7 +102,7 @@ BUILD BETTER
 │                                                      │
 │  C++                                                 │
 │  Strengthening my programming fundamentals and       │
-│  preparing for university coursework.                │
+│  preparing for university coursework.               │
 │                                                      │
 │  BACKEND                                             │
 │  The next layer beyond the interface.                │
@@ -102,6 +114,9 @@ BUILD BETTER
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
+
+</div>
+
 ---
 
 ## `04 / THINGS I'VE BUILT`
@@ -124,6 +139,7 @@ A modern e-commerce application built around real-world frontend patterns — pr
   <a href="https://jhay-hub.vercel.app/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" alt="JHAY HUB live demo" />
   </a>
+
   <a href="https://github.com/JhayCodesDev/react-ecommerce-jhayhub">
     <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" alt="JHAY HUB source code" />
   </a>
@@ -149,6 +165,7 @@ A browser-based banking simulation built to practice application logic, transact
   <a href="https://jhaycodesdev.github.io/JhayBank/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" alt="JhayBank live demo" />
   </a>
+
   <a href="https://github.com/JhayCodesDev/JhayBank">
     <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" alt="JhayBank source code" />
   </a>
@@ -174,6 +191,7 @@ A responsive bookstore interface built with Bootstrap, focusing on layout struct
   <a href="https://jhaycodesdev.github.io/swiftreads-bookstore/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge" alt="SwiftReads live demo" />
   </a>
+
   <a href="https://github.com/JhayCodesDev/swiftreads-bookstore">
     <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" alt="SwiftReads source code" />
   </a>
@@ -264,8 +282,10 @@ I use this space to build projects, experiment with technologies, solve problems
 
 ## `07 / THE DIRECTION`
 
+<div align="center">
+
 ```text
-                   WHERE I AM
+                    WHERE I AM
                          │
                          ▼
               ┌─────────────────────┐
@@ -297,10 +317,9 @@ I use this space to build projects, experiment with technologies, solve problems
               ┌─────────────────────┐
               │   AI Engineering    │
               └─────────────────────┘
-                    
-The goal isn't to collect technologies.
-The goal is to understand enough of them to build meaningful things.
 ```
+
+</div>
 
 The goal isn't to collect technologies.
 

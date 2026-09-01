@@ -284,6 +284,8 @@ I use this space to build projects, experiment with technologies, solve problems
 
 <div align="center">
 
+07 / THE DIRECTION
+
 ```text
                     WHERE I AM
                          │
@@ -318,6 +320,10 @@ I use this space to build projects, experiment with technologies, solve problems
               │   AI Engineering    │
               └─────────────────────┘
 ```
+
+The goal isn't to collect technologies.
+The goal is to understand enough of them to build meaningful things.     
+
 
 </div>
 

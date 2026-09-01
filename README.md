@@ -195,9 +195,12 @@ If something breaks, that's not wasted time.
   <a href="https://jhaycodesdev.vercel.app/">
     <img src="https://img.shields.io/badge/Website-JhayCodes-2563EB?style=for-the-badge" />
   </a>
-  <a href="https://github.com/JhayCodesDev">
-    <img src="https://img.shields.io/badge/GitHub-JhayCodesDev-181717?style=for-the-badge&logo=github" />
-  </a>
+ <a href="https://github.com/JhayCodesDev">
+  <img
+    src="https://img.shields.io/badge/GitHub-JhayCodesDev-181717?style=for-the-badge&logo=github"
+    alt="GitHub"
+  />
+</a>
   <a href="https://twitter.com/JhayCodes">
     <img src="https://img.shields.io/badge/X-@JhayCodes-000000?style=for-the-badge&logo=x" />
   </a>

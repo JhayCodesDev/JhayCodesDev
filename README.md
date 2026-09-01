@@ -280,11 +280,7 @@ I use this space to build projects, experiment with technologies, solve problems
 
 ---
 
-## `07 / THE DIRECTION`
-
-<div align="center">
-
-07 / THE DIRECTION
+## 07 / THE DIRECTION
 
 ```text
                     WHERE I AM
@@ -322,14 +318,7 @@ I use this space to build projects, experiment with technologies, solve problems
 ```
 
 The goal isn't to collect technologies.
-The goal is to understand enough of them to build meaningful things.     
-
-
-</div>
-
-The goal isn't to collect technologies.
-
-The goal is to understand enough of them to **build meaningful things**.
+The goal is to understand enough of them to build meaningful things.
 
 ---
 

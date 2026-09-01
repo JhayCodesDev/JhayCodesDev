@@ -102,7 +102,7 @@ BUILD BETTER
 │                                                      │
 │  C++                                                 │
 │  Strengthening my programming fundamentals and       │
-│  preparing for university coursework.               │
+│  preparing for university coursework.                │
 │                                                      │
 │  BACKEND                                             │
 │  The next layer beyond the interface.                │

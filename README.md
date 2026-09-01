@@ -77,27 +77,30 @@ BUILD BETTER
 
 ## `03 / CURRENTLY LEARNING`
 
+<div align="center">
+
 ```text
-Python
-██████████████████░░  Advanced → Intermediate
-
-C++
-████████░░░░░░░░░░░░  Learning
-
-Backend Development
-████░░░░░░░░░░░░░░░░  Next
-
-AI Engineering
-██░░░░░░░░░░░░░░░░░░  Building Toward
-```
-
-I'm not trying to learn everything at once.
-
-I'm building toward something.
-
-**Frontend → Stronger Programming → Python → Backend → AI Engineering**
-
-C++ is also part of the journey, helping me strengthen my programming fundamentals and prepare for university coursework.
+┌──────────────────────────────────────────────────────┐
+│                    CURRENT LAB                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  PYTHON                                              │
+│  Deepening my understanding beyond syntax —          │
+│  applying concepts through real projects.            │
+│                                                      │
+│  C++                                                 │
+│  Strengthening my programming fundamentals and       │
+│  preparing for university coursework.                │
+│                                                      │
+│  BACKEND                                             │
+│  The next layer beyond the interface.                │
+│  Learning how applications work behind the scenes.   │
+│                                                      │
+│  AI ENGINEERING                                      │
+│  The direction I'm building toward.                  │
+│  Python → Backend → AI.                              │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 
 ---
 
